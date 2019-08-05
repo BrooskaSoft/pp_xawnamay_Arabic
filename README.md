@@ -1,11 +1,11 @@
-# pp_xawnamay_kurdi
+# pp_tafsir_alahlam
 
-## com.brooskasoft.XawNamayKurdi
+## com.brooskasoft.tafsiralahlamsarin
 
 
 ## Privacy Policy
   
-WebGalaSoft built the com.brooskasoft.XawNamayKurdi app as an Ad Supported app. This SERVICE is provided by WebGalaSoft at no cost and is intended for use as is.
+WebGalaSoft built the com.brooskasoft.tafsiralahlamsarin app as an Ad Supported app. This SERVICE is provided by WebGalaSoft at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
